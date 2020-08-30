@@ -20,7 +20,7 @@
   - [ ] [_[Playlist]_: Swift - Let's Build A Login Guide](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHfozquTVhV4HRy-1A_aXlv)
   - [ ] [_[Playlist]_: Lets Build Facebook Messenger](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHGoEg41IJNk9QQ_hPWcyRo)
 - [ ] [Sean Allen: iOS Dev Job Interview jractice - Take Home Project](https://seanallen.teachable.com/p/take-home) `Paid`
-- [ ] [LBTA: Twitter Slide Out Menu](https://www.letsbuildthatapp.com/course/Twitter%20Slide%20Out%20Menu) `Paid`
+- [x] [LBTA: Twitter Slide Out Menu](https://www.letsbuildthatapp.com/course/Twitter%20Slide%20Out%20Menu) `Paid`
 
 ### Be able to utilize version control
 - [ ] [Pluralsight: Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
