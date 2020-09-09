@@ -33,7 +33,7 @@
 - [x] [Book: Deep Work](https://www.amazon.com/gp/product/1455586692/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=stuhac-20&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=ec7ed5a0e59a7cff8b7833d3e8e560c7)
 - [x] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [x] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
-- [ ] [Book: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+- [x] [Book: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] [Book: The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463)
 - [x] [Book: The Seven Habits of Highly Effective People - Stephen Covey](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [x] [Book: The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)
