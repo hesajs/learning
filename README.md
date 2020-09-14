@@ -21,12 +21,16 @@
   - [ ] [_[Playlist]_: Lets Build Facebook Messenger](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHGoEg41IJNk9QQ_hPWcyRo)
 - [ ] [Sean Allen: iOS Dev Job Interview jractice - Take Home Project](https://seanallen.teachable.com/p/take-home) `Paid`
 - [x] [LBTA: Twitter Slide Out Menu](https://www.letsbuildthatapp.com/course/Twitter%20Slide%20Out%20Menu) `Paid`
+- [ ] [Github: The Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+- [ ] [Article: Design Teardown: Expanding Cells](http://blog.matthewcheok.com/design-teardown-preview-expanding-cells/)
 
 ### Be able to utilize version control
 - [ ] [Pluralsight: Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
 - [x] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [Git-it (Desktop App)](https://github.com/jlord/git-it-electron)
+- [ ] [dotfiles: Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
 
 ### Broaden Perspective
 - [ ] [Book: Atomic Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f)
