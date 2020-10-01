@@ -4,6 +4,7 @@
 - [ ] [Book: Lost and Founder](https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321)
 - [x] [Book: Getting to Yes: How To Negotiate Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937)
 - [ ] [Book: High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [ ] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
 - [ ] [Book: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [ ] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
 - [ ] [Book: The Little Book That Still Beats the Market](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159)
