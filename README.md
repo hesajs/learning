@@ -48,3 +48,6 @@
 - [x] [Book: The Seven Habits of Highly Effective People - Stephen Covey](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [x] [Book: The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)
 - [x] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
+
+### Computers & Technology
+- [ ] [Book: The Dream Machine](https://www.amazon.com/Dream-Machine-Licklider-Revolution-Computing/dp/0670899763)
