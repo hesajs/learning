@@ -51,4 +51,5 @@
 - [x] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
 
 ### Computers & Technology
+- [x] [Book: Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X)
 - [ ] [Book: The Dream Machine](https://www.amazon.com/Dream-Machine-Licklider-Revolution-Computing/dp/0670899763)
