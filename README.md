@@ -27,6 +27,7 @@
 - [x] [LBTA: Twitter Slide Out Menu](https://www.letsbuildthatapp.com/course/Twitter%20Slide%20Out%20Menu) `Paid`
 - [ ] [Github: The Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 - [ ] [Article: Design Teardown: Expanding Cells](http://blog.matthewcheok.com/design-teardown-preview-expanding-cells/)
+- [ ] [Article: How to make something with Swift Playground](https://www.freecodecamp.org/news/how-to-make-something-with-swift-playgrounds-33e560b84184/)
 
 ### Be able to utilize version control
 - [ ] [Pluralsight: Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
