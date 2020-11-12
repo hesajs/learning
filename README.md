@@ -4,7 +4,7 @@
 - [ ] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
 - [ ] [Book: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [x] [Book: The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316388394)
-- [ ] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
+- [x] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
 - [ ] [Book: Lost and Founder](https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321)
 - [ ] [Book: The E-Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 - [x] [Book: Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
@@ -18,6 +18,7 @@
 - [x] [Book: Swift Apprentice (Fifth Edition): Beginning Programming with Swift](https://www.amazon.com/dp/1950325075?tag=raywend-20)
 - [x] [Book: iOS Apprentice (Seventh Edition): Beginning iOS development with Swift 4.2](https://www.amazon.com/iOS-Apprentice-Beginning-development-Swift/dp/194287863X)
 - [x] [Book: iOS Programming: The Big Nerd Ranch Guide (7th Edition)](https://www.amazon.com/iOS-Programming-Nerd-Ranch-Guide/dp/0135264022/ref=sr_1_1?crid=2IEZUX2I3ULAZ&dchild=1&keywords=big+nerd+ranch+ios+7th&qid=1595426579&sprefix=big+nerd+ranch+i%2Caps%2C160&sr=8-1)
+- [ ] [Book: RxSwift: Reactive Programming with Swift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
 - [x] [Udemy: iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) `Paid`
 - [x] [Udemy: Level Up in Auto Layout](https://www.udemy.com/course/level-up-in-auto-layout/) `Paid`
 - [ ] [Youtube: Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
@@ -27,7 +28,9 @@
 - [x] [LBTA: Twitter Slide Out Menu](https://www.letsbuildthatapp.com/course/Twitter%20Slide%20Out%20Menu) `Paid`
 - [ ] [Github: The Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 - [ ] [Article: Design Teardown: Expanding Cells](http://blog.matthewcheok.com/design-teardown-preview-expanding-cells/)
-- [ ] [Article: How to make something with Swift Playground](https://www.freecodecamp.org/news/how-to-make-something-with-swift-playgrounds-33e560b84184/)
+- [x] [Article: How to make something with Swift Playground](https://www.freecodecamp.org/news/how-to-make-something-with-swift-playgrounds-33e560b84184/)
+- [ ] [Article: Create Your Own Custom UIRefreshControl in Swift for iOS](https://medium.com/better-programming/creating-your-own-custom-uirefreshcontrol-in-swift-for-ios-78a34f525d9d)
+- [ ] [Article: Reactive programming with RxSwift: How to get started](https://techbeacon.com/app-dev-testing/reactive-programming-rxswift-how-get-started)
 
 ### Be able to utilize version control
 - [ ] [Pluralsight: Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
