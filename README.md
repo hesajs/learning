@@ -1,19 +1,5 @@
 # Learning 
 
-### Develop a business acumen 
-- [ ] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
-- [ ] [Book: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-- [x] [Book: The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316388394)
-- [x] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
-- [ ] [Book: Lost and Founder](https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321)
-- [ ] [Book: The E-Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
-- [x] [Book: Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
-- [x] [Book: Getting to Yes: How To Negotiate Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937)
-- [ ] [Book: Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
-- [ ] [Book: High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-- [ ] [Book: The Little Book That Still Beats the Market](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159)
-- [ ] [Book: The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
-
 ### Swift and iOS
 - [x] [Book: Swift Apprentice (Fifth Edition): Beginning Programming with Swift](https://www.amazon.com/dp/1950325075?tag=raywend-20)
 - [x] [Book: iOS Apprentice (Seventh Edition): Beginning iOS development with Swift 4.2](https://www.amazon.com/iOS-Apprentice-Beginning-development-Swift/dp/194287863X)
@@ -32,6 +18,10 @@
 - [ ] [Article: Create Your Own Custom UIRefreshControl in Swift for iOS](https://medium.com/better-programming/creating-your-own-custom-uirefreshcontrol-in-swift-for-ios-78a34f525d9d)
 - [ ] [Article: Reactive programming with RxSwift: How to get started](https://techbeacon.com/app-dev-testing/reactive-programming-rxswift-how-get-started)
 
+### Economics
+- [ ] [Book: How Asia Works: Success and Failure in the World's Most Dynamic Region](https://www.amazon.com/How-Asia-Works-Success-Failure/dp/080211959X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1545302527&sr=8-1)
+- [ ] [Article: How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
+
 ### Be able to utilize version control
 - [ ] [Pluralsight: Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
@@ -39,6 +29,25 @@
 - [x] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [Git-it (Desktop App)](https://github.com/jlord/git-it-electron)
 - [ ] [dotfiles: Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
+
+### Computers & Technology
+- [x] [Book: Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X)
+- [ ] [Book: The Dream Machine](https://www.amazon.com/Dream-Machine-Licklider-Revolution-Computing/dp/0670899763)
+- [ ] [Book: Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-1997-10-01/dp/B01MZ3QPQH/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1545257883&sr=1-1)
+
+### Develop a business acumen 
+- [ ] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
+- [ ] [Book: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- [x] [Book: The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316388394)
+- [x] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
+- [ ] [Book: Lost and Founder](https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321)
+- [ ] [Book: The E-Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
+- [x] [Book: Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+- [x] [Book: Getting to Yes: How To Negotiate Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937)
+- [ ] [Book: Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
+- [ ] [Book: High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [ ] [Book: The Little Book That Still Beats the Market](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159)
+- [ ] [Book: The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 
 ### Broaden Perspective
 - [ ] [Book: Atomic Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f)
@@ -53,7 +62,5 @@
 - [x] [Book: The Seven Habits of Highly Effective People - Stephen Covey](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [x] [Book: The Richest Man in Babylon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)
 - [x] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
+- [ ] [Youtube: Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw&feature=youtu.be)
 
-### Computers & Technology
-- [x] [Book: Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X)
-- [ ] [Book: The Dream Machine](https://www.amazon.com/Dream-Machine-Licklider-Revolution-Computing/dp/0670899763)
