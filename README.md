@@ -36,7 +36,7 @@
 - [ ] [Book: Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-1997-10-01/dp/B01MZ3QPQH/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1545257883&sr=1-1)
 
 ### Develop a business acumen 
-- [ ] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
+- [x] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
 - [ ] [Book: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [x] [Book: The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.amazon.com/Upstarts-Airbnb-Companies-Silicon-Changing/dp/0316388394)
 - [x] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
