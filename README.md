@@ -56,6 +56,7 @@
 - [ ] [Book: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 - [x] [Book: Deep Work](https://www.amazon.com/gp/product/1455586692/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=stuhac-20&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=ec7ed5a0e59a7cff8b7833d3e8e560c7)
 - [ ] [Book: Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
+- [x] [Book: How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591846919)
 - [ ] [Book: The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314/ref=as_li_ss_tl?ie=UTF8&qid=1545304878&sr=8-2&keywords=The+Inner+Game+of+Tennis&linkCode=ll1&tag=offsitoftimfe-20&linkId=378b79012805924dbd4e1cb9875a71d2&language=en_US)
 - [ ] [Book: Can't Hurt Me](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287)
 - [ ] [Book: Six Thinking Hats](https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/ref=as_li_ss_tl?ie=UTF8&qid=1545303893&sr=8-3&keywords=Edward+de+Bono&linkCode=ll1&tag=offsitoftimfe-20&linkId=cd28cb58b559172d13ff26ff41868921&language=en_US)
