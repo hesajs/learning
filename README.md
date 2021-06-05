@@ -30,10 +30,12 @@
 - [ ] [Git-it (Desktop App)](https://github.com/jlord/git-it-electron)
 - [ ] [dotfiles: Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
 
-### Computers & Technology
+### Computers, Engineering & Technology
 - [x] [Book: Ten Arguments for Deleting Your Social Media Accounts Right Now](https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X)
+- [x] [Book: Digital Minimalism: Choosing a Focus Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G)
 - [ ] [Book: The Dream Machine](https://www.amazon.com/Dream-Machine-Licklider-Revolution-Computing/dp/0670899763)
 - [ ] [Book: Art of Doing Science and Engineering: Learning to Learn](https://www.amazon.com/Art-Doing-Science-Engineering-1997-10-01/dp/B01MZ3QPQH/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1545257883&sr=1-1)
+- [ ] [Book: Thing Explainer: Complicated Stuff in Simple Words](https://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251)
 
 ### Develop a business acumen 
 - [x] [Book: How Innovation Works](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599)
@@ -42,9 +44,11 @@
 - [x] [Book: The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
 - [ ] [Book: Lost and Founder](https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321)
 - [ ] [Book: The E-Myth Revisited](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
+- [ ] [Book: Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
 - [x] [Book: Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 - [x] [Book: Getting to Yes: How To Negotiate Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiate-Agreement-Without/dp/0743526937)
 - [ ] [Book: Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
+- [x] [Book: FAKE: Fake Money, Fake Teachers, Fake Assets](https://www.amazon.com/FAKE-Robert-T-Kiyosaki-audiobook/dp/B07QBDBQMY)
 - [ ] [Book: High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [ ] [Book: The Man Who Solved the Market](https://www.amazon.com/Man-Who-Solved-Market-Revolution-ebook/dp/B07P1NNTSD)
 - [ ] [Book: The Little Book That Still Beats the Market](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159)
@@ -60,7 +64,7 @@
 - [ ] [Book: The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314/ref=as_li_ss_tl?ie=UTF8&qid=1545304878&sr=8-2&keywords=The+Inner+Game+of+Tennis&linkCode=ll1&tag=offsitoftimfe-20&linkId=378b79012805924dbd4e1cb9875a71d2&language=en_US)
 - [ ] [Book: Can't Hurt Me](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287)
 - [ ] [Book: Six Thinking Hats](https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314/ref=as_li_ss_tl?ie=UTF8&qid=1545303893&sr=8-3&keywords=Edward+de+Bono&linkCode=ll1&tag=offsitoftimfe-20&linkId=cd28cb58b559172d13ff26ff41868921&language=en_US)
-- [x] [Book: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+- [ ] [Book: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] [Book: The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463)
 - [x] [Book: The Seven Habits of Highly Effective People - Stephen Covey](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [x] [Book: The Subtle Art of Not Giving a F**k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?crid=2D0YPAWPV3X9F&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1597919887&s=books&sprefix=the+subtl%2Cstripbooks-intl-ship%2C396&sr=1-1)
@@ -69,3 +73,13 @@
 - [x] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
 - [ ] [Youtube: Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw&feature=youtu.be)
 
+### Psychology
+- [ ] [Book: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+- [ ] [Book: Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)
+- [ ] [Book: Emotional Intelligence: Why It Can Matter More Than IQ](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+- [x] [Book: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+- [x] [Book: The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+
+### History
+- [ ] [Book: The Lessons of History](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X)
+- [ ] [Book: Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
